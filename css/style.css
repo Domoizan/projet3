@@ -1,0 +1,16 @@
+/* Style global de départ */
+@import url(general.css);
+/* Style Header logo et navigation*/
+@import url(header.css);
+/* Style formulaire de recherche et filtres */
+@import url(formfiltre.css);
+/* style section hebergements */
+@import url(hbrgt.css);
+/* style section activités */
+@import url(activ.css);
+/* style section footer */
+@import url(nav_footer.css);
+/* style media query tablets   */
+@import url(tablets.css);
+/* style media query mobile */
+@import url(mobile.css);
