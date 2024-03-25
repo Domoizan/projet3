@@ -43,6 +43,7 @@
 }
 
 .search-icon{
+    color: white;
     display: none;
 }
 
@@ -130,9 +131,9 @@
     display: inline-block;
     border-style: solid;
     padding: 5px 10px;
-    border-width: 1px;
+    border-width: 2px;
     border-radius: 15px;
-    border-color: var(--main-color);
+    border-color: var(--filter-bg-color);
 }
 
 .show-more div{

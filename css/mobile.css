@@ -46,7 +46,17 @@
         padding-left: 0px;
     }
 
+    .main-container{
+        padding: 0;
+    }
+
 /***  section recherche mobile ***/
+
+
+
+    .search-and-filtres{
+        padding: 0 10px;
+    }
 
     .search-form{
         width: auto;
@@ -65,6 +75,7 @@
         text-align:center ;
         padding: 17px 0;
     }
+
     .search-input-text {
         width: 229px;
         text-align: left;
@@ -97,9 +108,6 @@
         padding-right: 5px;
     }
 
-    .search_filtre_infobar i{
-        display:none;
-    }
 
 /***  section hebergements/populaires mobile ***/
 
