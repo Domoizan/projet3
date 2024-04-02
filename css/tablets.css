@@ -54,6 +54,7 @@
 
     .activ-cards .card-content {
         padding: 0;
+        height: 96px;
     }
 
     .activ-cards .card-txt{
